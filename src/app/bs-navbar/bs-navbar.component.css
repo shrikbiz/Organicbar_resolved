@@ -1,0 +1,11 @@
+#dropdown01 {
+    cursor: pointer;
+}
+.nav-item:hover{
+    color:grey;
+}
+
+div .dropdown-item:hover{
+background: #6e777e;
+color:white;
+}

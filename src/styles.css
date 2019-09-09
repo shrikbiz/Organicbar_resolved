@@ -1,0 +1,10 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body {
+  padding-top: 80px;
+  background: repeating-linear-gradient(90deg, hsla(138,66%,68%, 0.52) 0px, hsla(138,66%,68%, 0.52) 124px,hsla(183,66%,68%, 0.52) 124px, hsla(183,66%,68%, 0.52) 248px,hsla(228,66%,68%, 0.52) 248px, hsla(228,66%,68%, 0.52) 372px,hsla(273,66%,68%, 0.52) 372px, hsla(273,66%,68%, 0.52) 496px,hsla(318,66%,68%, 0.52) 496px, hsla(318,66%,68%, 0.52) 620px,hsla(3,66%,68%, 0.52) 620px, hsla(3,66%,68%, 0.52) 744px,hsla(48,66%,68%, 0.52) 744px, hsla(48,66%,68%, 0.52) 868px,hsla(93,66%,68%, 0.52) 868px, hsla(93,66%,68%, 0.52) 992px),repeating-linear-gradient(45deg, hsla(98,76%,58%, 0.37) 0px, hsla(98,76%,58%, 0.37) 56px,hsla(143,76%,58%, 0.37) 56px, hsla(143,76%,58%, 0.37) 112px,hsla(188,76%,58%, 0.37) 112px, hsla(188,76%,58%, 0.37) 168px,hsla(233,76%,58%, 0.37) 168px, hsla(233,76%,58%, 0.37) 224px,hsla(278,76%,58%, 0.37) 224px, hsla(278,76%,58%, 0.37) 280px,hsla(323,76%,58%, 0.37) 280px, hsla(323,76%,58%, 0.37) 336px,hsla(8,76%,58%, 0.37) 336px, hsla(8,76%,58%, 0.37) 392px,hsla(53,76%,58%, 0.37) 392px, hsla(53,76%,58%, 0.37) 448px),repeating-linear-gradient(135deg, #b461e7,#c679ff,#c7e3ab,#c3b8e1 3px)
+}
+
+.container{
+  margin: 30px;
+}
